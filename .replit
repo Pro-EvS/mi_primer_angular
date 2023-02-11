@@ -24,7 +24,7 @@ PATH = "/home/runner/$REPL_SLUG/.config/npm/node_global/bin:/home/runner/$REPL_S
 npm_config_prefix = "/home/runner/$REPL_SLUG/.config/npm/node_global"
 
 [gitHubImport]
-requiredFiles = [".replit", "replit.nix", ".config", "package.json", "package-lock.json"]
+requiredFiles = ["replit.nix", ".config", "package.json", "package-lock.json"]
 
 [packager]
 language = "nodejs"
